@@ -16,12 +16,7 @@ Quiz Interativo: Teste seu conhecimento com quizzes interativos sobre temas odon
 
 ## Tecnologias Utilizadas
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.mozilla.org/firefox/new/" target="_blank">
-    
- 
-  <img src="https://seeklogo.com/images/G/google-sheets-logo-D2A35FF8A4-seeklogo.com.png" alt="Google Sheets Logo" height="48" width="34" />
-</div> <img src="https://img.icons8.com/color/452/microsoft-powerpoint-2019.png" alt="PowerPoint Logo" height="48" width="48" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"><a href="https://www.mozilla.org/firefox/new/" target="_blank">  <img src="https://seeklogo.com/images/G/google-sheets-logo-D2A35FF8A4-seeklogo.com.png" alt="Google Sheets Logo" height="48" width="34" /> </div> <img src="https://img.icons8.com/color/452/microsoft-powerpoint-2019.png" alt="PowerPoint Logo" height="48" width="48" />
 </div>
 
 
