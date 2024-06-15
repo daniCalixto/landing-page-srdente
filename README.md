@@ -2,7 +2,7 @@
 
 # Sr Dente
 
-## Sr Dente é um aplicativo educacional desenvolvido para oferecer recursos visuais interativos e informativos sobre procedimentos odontológicos, condições bucais e práticas de higiene oral. 
+Sr Dente é um aplicativo educacional desenvolvido para oferecer recursos visuais interativos e informativos sobre procedimentos odontológicos, condições bucais e práticas de higiene oral. 
 O aplicativo visa educar pacientes de maneira acessível e envolvente, facilitando o entendimento e a adoção de hábitos saudáveis de cuidado bucal.
 
 Funcionalidades
