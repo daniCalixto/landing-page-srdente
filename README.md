@@ -1,8 +1,8 @@
 ![Logo da Pipoca Gil](https://media.licdn.com/dms/image/C4D0BAQG9xHNBZdXEsA/company-logo_200_200/0/1645538772194/pipoca_gil_logo?e=2147483647&v=beta&t=0umotbH59HGBlW3aLiN5M2oyOjd-27IKLNY5cUy94kY)
 
-#Sr Dente
+# Sr Dente
 
-##Sr Dente é um aplicativo educacional desenvolvido para oferecer recursos visuais interativos e informativos sobre procedimentos odontológicos, condições bucais e práticas de higiene oral. 
+## Sr Dente é um aplicativo educacional desenvolvido para oferecer recursos visuais interativos e informativos sobre procedimentos odontológicos, condições bucais e práticas de higiene oral. 
 O aplicativo visa educar pacientes de maneira acessível e envolvente, facilitando o entendimento e a adoção de hábitos saudáveis de cuidado bucal.
 
 Funcionalidades
